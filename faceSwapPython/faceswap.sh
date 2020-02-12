@@ -1,6 +1,6 @@
 . env/bin/activate
 
-VIDEO_NAME='video10'
+VIDEO_NAME='video1'
 VIDEO_FULL_NAME=$VIDEO_NAME'.mp4'
 FOLDER_INPUT='imgs/frames_'$VIDEO_NAME
 FOLDER_APPEND='/video%0d.jpg'
